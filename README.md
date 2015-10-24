@@ -1,3 +1,3 @@
-# Doobox_Stack_Issues
+# Doobox Bug Tracker
 
 Report any issues with any Doobox stacks in this repositorys issues section.
