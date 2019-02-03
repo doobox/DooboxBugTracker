@@ -10,9 +10,6 @@ You may also request enhancments to any of our stacks.
 - You must be logged into Github to add a report (sign up is free).
 - Follow the better reports guide below.
 
-
-##Better Reports
-
 ###Issue Titles
 It would be helpfull if you could start the title of the report with the stacks name.
 
